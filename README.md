@@ -1,1 +1,2 @@
-# P6-CHAT-Vue
+# chat-socket.io
+Basic Chat App using Socket.io
